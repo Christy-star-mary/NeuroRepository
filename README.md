@@ -1,2 +1,2 @@
 # NeuroRepository
-git clone https://github.com/yourusername/neuromodulation-form.git
+git clone https://github.com/Christy-star-mary/neuromodulation-form.git

@@ -53,7 +53,5 @@ This application allows patients to fill in a form and calculates a total score 
 - Used Bootstrap for a responsive and user-friendly design.
 - Used jQuery for dynamic form updates (e.g., auto-calculating age and total score).
 
-## Contact
 
-For any questions or issues, please contact Anthony Brady at anthony.brady1@nhs.net.
 
